@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBkdj9d+CRQ5BWJm0Zv5tcHqgI9mm9WFpvKyQgYLSspnKe7JptjZSsd/pgMUoca85VjD4C7PzKuwxFQ0rR5Ksg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel Leite\\codenation\\csharp-2\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Leite\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel Leite\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
