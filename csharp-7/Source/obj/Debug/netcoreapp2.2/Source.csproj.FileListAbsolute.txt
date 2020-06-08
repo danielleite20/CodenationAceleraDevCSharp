@@ -1,0 +1,6 @@
+C:\Users\Daniel Leite\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.csprojAssemblyReference.cache
+C:\Users\Daniel Leite\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfoInputs.cache
+C:\Users\Daniel Leite\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfo.cs
+C:\Users\Daniel Leite\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Leite\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.RazorAssemblyInfo.cache
+C:\Users\Daniel Leite\codenation\csharp-7\Source\obj\Debug\netcoreapp2.2\Source.RazorAssemblyInfo.cs
