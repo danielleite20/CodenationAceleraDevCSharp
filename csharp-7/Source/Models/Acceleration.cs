@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Codenation.Challeng.Models
+namespace Codenation.Challenge.Models
 {
     [Table("acceleration")]
     public class Acceleration
@@ -33,6 +33,6 @@ namespace Codenation.Challeng.Models
         public int ChallengeId { get; set; }
         public Codenation.Challenge.Models.Challenge Challenge { get; set; }
         
-        public List<Codenation.Challenge.Models.Candidate> Candidates { get; set; }
+        public List<Candidate> Candidates { get; set; }
     }
 }

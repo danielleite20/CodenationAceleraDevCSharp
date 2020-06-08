@@ -27,7 +27,7 @@ namespace Codenation.Challenge.Models
         [Required]
         public DateTime CreatedAt { get; set; }
         
-        public List<Codenation.Challeng.Models.Acceleration> Accelerations { get; set; }
+        public List<Codenation.Challenge.Models.Acceleration> Accelerations { get; set; }
         public List<Submission> Submissions { get; set; }
     }
 }

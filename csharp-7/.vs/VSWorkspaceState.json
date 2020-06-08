@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Source"
+    "\\Source",
+    "\\Source\\Models",
+    "\\Source\\obj"
   ],
-  "SelectedNode": "\\Source\\Program.cs",
+  "SelectedNode": "\\Source\\Models\\Candidate.cs",
   "PreviewInSolutionExplorer": false
 }
