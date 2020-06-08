@@ -31,8 +31,8 @@ namespace Codenation.Challeng.Models
         [ForeignKey("Challenge")]
         [Required]
         public int ChallengeId { get; set; }
-        public Challenge Challenge { get; set; }
+        public Codenation.Challenge.Models.Challenge Challenge { get; set; }
         
-        public List<Candidate> Candidates { get; set; }
+        public List<Codenation.Challenge.Models.Candidate> Candidates { get; set; }
     }
 }

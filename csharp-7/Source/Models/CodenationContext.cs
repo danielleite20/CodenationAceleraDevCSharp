@@ -7,7 +7,7 @@ namespace Codenation.Challenge.Models
         public DbSet<User> Users { get; set; }
         public DbSet<Submission> Submissions { get; set; }
         public DbSet<Candidate> Candidates { get; set; }
-        public DbSet<Acceleration> Accelerations { get; set; }
+        public DbSet<Codenation.Challenge.Models.Acceleration> Accelerations { get; set; }
         public DbSet<Company> Companies { get; set; }
         public DbSet<Codenation.Challenge.Models.Challenge> Challenges { get; set; }
 
