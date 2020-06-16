@@ -2,12 +2,12 @@
  Exercícios e Desafios do AceleraDev C# Stone
 
 ## Desafios
- * [1 - Fibonacci](módulo1) 
- * [2 - Criptografia de Júlio César](módulo1)
- * [3 - Os dez maiores estados brasileiros em extensão territorial](módulo2)
- * [4 - Gerenciador de times de futebol](módulo3)
- * [5 - Criando Entidades de Banco de Dados com C#](módulo4)
- * [6 - Criando e manipulando entidades no Banco de dados com Entity Framework Core](módulo5)
+ * [1 - Fibonacci](csharp-0) 
+ * [2 - Criptografia de Júlio César](csharp-2)
+ * [3 - Os dez maiores estados brasileiros em extensão territorial](csharp-3)
+ * [4 - Gerenciador de times de futebol](csharp-1)
+ * [5 - Criando Entidades de Banco de Dados com C#](csharp-7)
+ * [6 - Criando e manipulando entidades no Banco de dados com Entity Framework Core](csharp-8)
  * [7 - ]
  * [8 - ]
  * [9 - ]
