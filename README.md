@@ -1,4 +1,4 @@
-# acelera-dev-csharp
+# Acelera-Dev-Csharp
  Exercícios e Desafios do AceleraDev C# Stone
 
 ## Desafios
@@ -8,8 +8,8 @@
  * [4 - Gerenciador de times de futebol](csharp-1)
  * [5 - Criando Entidades de Banco de Dados com C#](csharp-7)
  * [6 - Criando e manipulando entidades no Banco de dados com Entity Framework Core](csharp-8)
- * [7 - ]
- * [8 - ]
+ * [7 - Criando controladores Web API](csharp-9)
+ * [8 - Gerador de frases do Monty Python](csharp-5)
  * [9 - ]
  * [10 - ]
  * [11 - ]
