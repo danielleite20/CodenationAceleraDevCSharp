@@ -10,7 +10,7 @@
  * [6 - Criando e manipulando entidades no Banco de dados com Entity Framework Core](csharp-8)
  * [7 - Criando controladores Web API](csharp-9)
  * [8 - Gerador de frases do Monty Python](csharp-5)
- * [9 - Configurando a autorização de acesso de Web API com JWT](csharp-0)
+ * [9 - Configurando a autorização de acesso de Web API com JWT](csharp-10)
  * [10 - ]
  * [11 - ]
 
