@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Source",
+    "\\Source.TestSubmission",
+    "\\Source.TestSubmission\\bin",
+    "\\Source.TestSubmission\\obj",
+    "\\Source.TestSubmission\\TestData",
+    "\\Source\\Migrations",
+    "\\Source\\Models",
+    "\\Source\\obj",
+    "\\Source\\Properties"
+  ],
+  "SelectedNode": "\\Source\\Models\\CodenationContext.cs",
+  "PreviewInSolutionExplorer": false
+}
